@@ -26,7 +26,8 @@
 
 
 # **📊 GitHub Stats**:
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varun-A-Menon-98&show_icons=true&theme=dark)
+
+![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varun-A-Menon-98&show_icons=true&theme=dark&custom_title=Varun-GitHub-Stats)
 
 
 
