@@ -7,6 +7,13 @@
 💞️ I’m looking to collaborate on projects that involve using data and machine learning to solve problems and make a difference. I am open to working with others who share similar interests and goals.
 
 📫 You can reach me via my [LinkedIn Profile](https://www.linkedin.com/in/varun-a-menon). Feel free to reach out if you have any questions or if there is any way that I can help!
+<p align="center">
+  <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" style="display: block; margin: auto;"/>
+  <br>
+  <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" style="display: block; margin: auto;"/>
+  <br>
+</p>
+
 
 ![](https://komarev.com/ghpvc/?username=Varun-A-Menon-98&style=for-the-badge&color=green&abbreviated=true)
 
