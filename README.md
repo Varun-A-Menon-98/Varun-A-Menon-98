@@ -31,7 +31,9 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-A-Menon-98&theme=dark&layout=pie)
+<p align="left">
+<a href="https://github.com/Varun-A-Menon-98">
+  <img  align="center" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Varun-A-Menon-98&theme=github-compact&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,ruby,swift,kotlin,shell" />
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Varun-A-Menon-98&theme=dark)](https://git.io/streak-stats)
