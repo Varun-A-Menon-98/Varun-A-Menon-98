@@ -47,3 +47,15 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-a-menon)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/varunmenon116)
 [![StrataScratch](https://img.shields.io/badge/Stratascratch-brightgreen?style=for-the-badge&)](https://platform.stratascratch.com/user/varun1998)
+
+
+## SQL PROJECTS ##
+| Project               |   Tools Used        | Area of Analysis|                             Description                              |Outcome|      
+| ----------------------| ------------------- |------------------|-----------------------------------------------------|----------------------|
+|[![Static Badge](https://img.shields.io/badge/Target-red?style=flat-square&logo=target)](https://github.com/Varun-A-Menon-98/Target-Business-Case-Study)(Click to View)| Excel,BigQuery| Data Analysis,Data Exploration|This repo serves as the solution for the Business Case Study for the giant retail store Target in Brazil. It showcases my ability to tackle SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills and conferring Insights and Recommendations.|In **2018**, the number of orders increased by **136.98%** compared to **2017**. **SP** had the most orders, likely due to lower freight costs and faster delivery. Offering discounts and cashback on credit card payments could attract more customers. All delivered orders in PA received 100% customer satisfaction, but SP's satisfaction levels are lower than expected, which needs attention since it’s the top revenue-generating state.|
+
+
+## PYTHON PROJECTS -EXPLORATORY DATA ANALYSIS
+| Project               |   Tools Used        | Area of Analysis|                             Description                              |Outcome|      
+| ----------------------| ------------------- |------------------|-----------------------------------------------------|----------------------|
+|[![Static Badge](https://img.shields.io/badge/Netflix-red?style=flat-square&logo=netflix)](https://github.com/Varun-A-Menon-98/Netflix-Business-Case-Study-EDA)(Click to View)|Excel,Numpy,Pandas,Seaborn,Matplotlib,Data Visualization| Data Analysis,Data Exploration|Explore my Netflix Exploratory Data Analysis (EDA) project, designed to uncover key insights and trends within Netflix’s content and user interactions. This project focuses on cleaning data, handling missing values, and analyzing patterns through visualizations to provide a deeper understanding of the streaming giant's offerings.|Netflix should focus on partnerships in key markets like the US and India, target peak release months (December for TV shows, July for movies), and use February for strategic launches. Adapting to post-COVID trends, investing in international content, and capitalizing on the TV show boom will drive future growth.|
