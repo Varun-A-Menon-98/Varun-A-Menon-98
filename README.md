@@ -48,6 +48,13 @@ You can click the Preview link to take a look at your changes.
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/varunmenon116)
 [![StrataScratch](https://img.shields.io/badge/Stratascratch-brightgreen?style=for-the-badge&)](https://platform.stratascratch.com/user/varun1998)
 
+
+## Machine Learning Projects
+### Linear Regression
+ Project               |   Tools Used        | Area of Analysis|                             Description                              |Outcome|
+| ----------------------| ------------------- |------------------|-----------------------------------------------------|----------------------|
+|[![Static Badge](https://img.shields.io/badge/Jambotree-red?style=flat&logo=Jameson)]()(Click TO View|Python,Excel,Streamlit|Supervised Learning,Data Visualization,Machine Learning,Linear Regression|Jamboree's new feature helps students estimate their chances of Ivy League graduate admission by analyzing factors like GMAT, GRE, SAT scores, academic performance, and extracurricular activities. Using statistical models, it predicts admission probabilities and provides insights into how these factors impact the chances, helping students improve their applications.|he analysis reveals that CGPA is the most important factor in predicting admission chances to Ivy League graduate programs. Factors like SOP (Statement of Purpose) and University Ranking were found to have little to no impact on the prediction and were therefore removed from the model. Both Lasso and Ridge regression models provided strong predictions, achieving an adjusted R² score of 0.82, indicating a good fit and reliable predictions for graduate admission chances.
+
 ## Power Bi and Tableau Projects
 | Project               |   Tools Used        | Area of Analysis|                             Description                              |Outcome|
 | ----------------------| ------------------- |------------------|-----------------------------------------------------|----------------------|
